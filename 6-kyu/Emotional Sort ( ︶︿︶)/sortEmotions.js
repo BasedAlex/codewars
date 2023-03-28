@@ -73,3 +73,5 @@ function sortEmotions(arr, order) {
 
 	return final
 }
+
+module.exports = sortEmotions

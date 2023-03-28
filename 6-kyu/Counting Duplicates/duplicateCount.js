@@ -16,3 +16,5 @@ function duplicateCount(text) {
 
 	return unique.length
 }
+
+module.exports = duplicateCount
